@@ -73,14 +73,29 @@
 <br clear="both">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemashree21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemashree21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemashree21&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemashree21&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
 
 <br clear="both">
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hemashree21&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemashree21&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
 
 <br clear="both">
 
