@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemashree M S</h1>
-<h3 align="center">A passionate frontend developer from Bengaluru</h3>
+<h3 align="center">A passionate web developer from Bengaluru</h3>
 <br clear="both">
 
 - 🌱 I’m currently learning **AI-ML and Backend Development.**
